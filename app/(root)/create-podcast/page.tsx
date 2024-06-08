@@ -1,7 +1,9 @@
 
 const CreatePodcast = () => {
     return (
-        <div>CreatePodcast</div>
+        <div>
+            <h1 className='text-20 font-bold text-white-1'>Create Podcasts</h1>
+        </div>
     )
 }
 

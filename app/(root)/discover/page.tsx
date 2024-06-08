@@ -1,7 +1,9 @@
 
 const Discover = () => {
   return (
-    <div>Discover</div>
+    <div>
+        <h1 className='text-20 font-bold text-white-1'>Discover</h1>
+    </div>
   )
 }
 
